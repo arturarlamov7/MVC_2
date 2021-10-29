@@ -9,7 +9,14 @@ $books = array(
                     "author" => "Matthew MacDonald",
                     "price" => "27.65$",
                     "description" => "HTML5 is more than a markup language-it's a collection of several idependent")
-                    "image"
+                    "image" => "HTML5TheMissing_MacDonald.jpg"),
+            array("bookname" => "Head First HTML5 Programming",
+                    "author" => "Eric Freeman, Elisabeth Robson",
+                    "price" => "35.35$",
+                    "description" => "HTML has been on a wild ride. Sure, HTML started as a mere markup language, but more")
+                    "image" => "HTML5TheMissing_MacDonald.jpg"),                    
+
+            )
             
             
             )
